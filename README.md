@@ -1,0 +1,1 @@
+NoteIt is a simple note-taking application developed using Kotlin. It offers a clean and intuitive interface for users to create, update, and delete their notes. The app incorporates Firebase Authentication to ensure secure user login and registration.
